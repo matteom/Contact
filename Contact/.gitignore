@@ -1,0 +1,7 @@
+xcuserdata/
+.DS_Store
+.Trashes
+*.lock
+*~.nib
+build/
+
